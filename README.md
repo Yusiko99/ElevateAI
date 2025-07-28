@@ -38,7 +38,7 @@ ElevateAI is a comprehensive personal growth and optimization platform that comb
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Yusiko99/ElevateAI.git
 cd ElevateAI
 ```
 
@@ -49,7 +49,7 @@ npm run install-all
 
 3. Set up environment variables:
 ```bash
-cp .env.example .env
+cp .env
 # Edit .env with your configuration
 ```
 
