@@ -104,7 +104,7 @@ OPENAI_API_KEY=your_openai_api_key
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache License 2.0.
 
 ## 🤝 Contributing
 
